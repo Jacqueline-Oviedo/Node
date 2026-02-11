@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "tittle": "Inception",
+    "year": 2010,
+    "genre": "Ciencia ficción",
+    "rating": 8.8,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "description": "Dom Cobb es un ladrón con una habilidad extraordinaria para infiltrarse en los sueños de las personas y robar secretos de su subconsciente. Cuando se le ofrece la oportunidad de borrar su pasado criminal, debe realizar una tarea casi imposible: implantar una idea en la mente de un objetivo sin que este lo note.",
+    "duration": 148,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 2,
+    "tittle": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "rating": 9.3,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "description": "Andy Dufresne, un banquero condenado injustamente por el asesinato de su esposa, es enviado a la prisión de Shawshank. Allí forja una profunda amistad con Red y demuestra que la esperanza puede ser la mayor arma contra la desesperación.",
+    "duration": 142,
+    "director": "Frank Darabont"
+  },
+  {
+    "id": 3,
+    "tittle": "The Dark Knight",
+    "year": 2008,
+    "genre": "Acción",
+    "rating": 9.0,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjJiYTliODMtNjM3MS00MzkxLWFlZGUtNmRmYWI1MzFlZmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Batman enfrenta a su mayor desafío cuando el Joker, un criminal caótico y brillante, siembra el terror en Gotham. La lucha entre ambos pone a prueba los límites morales del héroe.",
+    "duration": 152,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": 4,
+    "tittle": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "rating": 8.6,
+    "posterUrl": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/03/29150816/7IiTTgloJzvGI1TAYymCfbfl3vT-scaled.jpg",
+    "description": "La familia Kim, desempleada y viviendo en condiciones precarias, encuentra la manera de infiltrarse en la vida de la adinerada familia Park. Lo que comienza como una oportunidad se convierte en una serie de eventos inesperados y oscuros.",
+    "duration": 132,
+    "director": "Bong Joon-ho"
+  },
+  {
+    "id": 5,
+    "tittle": "Interstellar",
+    "year": 2014,
+    "genre": "Ciencia ficción",
+    "rating": 8.7,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "description": "En un futuro donde la Tierra está al borde del colapso ambiental, un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad. La misión desafía los límites del tiempo, el espacio y el amor.",
+    "duration": 169,
+    "director": "Christopher Nolan"
+  }
+]
